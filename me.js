@@ -1,1 +1,1 @@
-console.log("ass")
+setTimeout(()=>{console.log(document.body)),0)
