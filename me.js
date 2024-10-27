@@ -1,1 +1,1 @@
-setTimeout(()=>{console.log(document.body)},0)
+setTimeout(()=>{console.log(document.body)},1000)
